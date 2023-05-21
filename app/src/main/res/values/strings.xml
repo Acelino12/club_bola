@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">club bola</string>
+    <string name="todo">TODO</string>
+    <string name="club_name">Club Name</string>
+    <string name="club">Club</string>
+    <string name="detail">detail</string>
+</resources>
